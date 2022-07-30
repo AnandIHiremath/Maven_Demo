@@ -1,0 +1,98 @@
+[INFO ] 2022-07-09 10:36:17.155 [main] StepDefination - initilizing all the methods
+[INFO ] 2022-07-09 10:36:24.988 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-09 10:36:28.434 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-09 10:36:34.313 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-13 23:35:16.821 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-13 23:36:12.108 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-13 23:36:26.361 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-13 23:36:29.500 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-13 23:39:12.775 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-13 23:39:23.221 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-13 23:39:26.353 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-16 16:12:49.988 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-16 16:13:06.085 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-16 16:13:09.224 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-16 16:15:54.951 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-16 16:16:06.225 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-16 16:16:09.478 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-16 16:16:17.066 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-16 16:16:17.187 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-16 21:04:06.880 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-16 21:04:20.029 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-16 21:04:23.247 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-16 21:04:33.867 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-16 21:04:33.974 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-16 21:08:41.791 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-16 21:08:54.622 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-16 21:08:57.841 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-16 21:09:07.665 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-16 21:09:07.770 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-16 21:09:50.853 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-16 21:10:02.751 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-16 21:10:05.987 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-16 21:10:15.726 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-16 21:10:15.840 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-17 13:29:16.944 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 13:29:31.553 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-17 13:29:35.231 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-17 13:29:44.776 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-17 13:29:45.046 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-17 16:02:22.092 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 16:02:35.910 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 16:02:39.186 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 16:06:52.114 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 16:07:05.196 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 16:07:08.477 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 16:08:24.178 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 16:08:37.060 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 16:08:40.352 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 16:18:41.747 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 16:18:59.960 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 16:19:03.223 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 16:19:48.219 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 16:20:02.983 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 16:20:06.275 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 18:46:38.977 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 18:46:52.001 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 18:46:55.130 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 18:53:17.975 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 18:53:30.042 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 18:53:33.169 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 19:00:09.430 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 19:00:20.570 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-17 19:00:23.587 [main] StepDefination - Test Executed login successful
+[WARN ] 2022-07-17 19:00:25.759 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 19:02:56.563 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 19:03:07.949 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 19:03:11.092 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 19:04:53.931 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 19:05:06.323 [main] StepDefination - Setting Up Browser
+[WARN ] 2022-07-17 19:05:09.464 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-17 19:06:17.824 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-17 19:06:29.495 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-17 19:06:32.511 [main] StepDefination - Test Executed login successful
+[WARN ] 2022-07-17 19:06:34.730 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-18 00:31:26.078 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-18 00:31:38.071 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-18 00:31:41.099 [main] StepDefination - Test Executed login successful
+[WARN ] 2022-07-18 00:31:43.247 [main] StepDefination - This Test Failed captured ScreenShot
+[INFO ] 2022-07-18 00:40:57.335 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-18 00:41:09.231 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-18 00:41:12.251 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-18 00:41:14.258 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-18 00:41:14.356 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-24 23:09:49.407 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-24 23:10:04.708 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-24 23:10:07.765 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-24 23:10:09.787 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-24 23:10:10.021 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 09:34:40.154 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 09:34:56.533 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 09:34:59.593 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-30 09:35:01.621 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-30 09:35:01.851 [main] StepDefination - Test Passed captured ScreenShot
+[INFO ] 2022-07-30 09:35:56.271 [main] StepDefination - Initilizing all the methods
+[INFO ] 2022-07-30 09:36:10.312 [main] StepDefination - Setting Up Browser
+[INFO ] 2022-07-30 09:36:13.373 [main] StepDefination - Test Executed login successful
+[INFO ] 2022-07-30 09:36:15.391 [main] StepDefination - Test Executed logout successful
+[INFO ] 2022-07-30 09:36:15.596 [main] StepDefination - Test Passed captured ScreenShot
